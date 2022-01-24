@@ -1,0 +1,14 @@
+locators (7 locators):
+id
+class name
+tag name
+linked text
+partial linked text
+css selector
+xpath
+
+structure of css selector:
+tagname[attribute='value']
+
+xpath structure:
+//tagname[@attribute='value']
